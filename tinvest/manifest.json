@@ -1,0 +1,19 @@
+{
+  "id": "tinvest",
+  "name": "T-Invest",
+  "version": "1.0.0",
+  "minNoctaliaVersion": "3.6.0",
+  "author": "Leonid Zagumennov",
+  "license": "MIT",
+  "repository": "https://github.com/leonzag/noctalia-plugins",
+  "description": "Show your actual portolio state in T-Invest platform",
+  "entryPoints": {
+    "barWidget": "BarWidget.qml"
+  },
+  "dependencies": {
+    "plugins": []
+  },
+  "metadata": {
+    "defaultSettings": {}
+  }
+}
