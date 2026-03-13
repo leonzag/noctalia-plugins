@@ -1,4 +1,15 @@
 {
   "version": 1,
-  "plugins": []
+  "plugins": [
+    {
+      "id": "tinvest",
+      "name": "T-Invest",
+      "version": "1.0.0",
+      "author": "Leonid Zagumennov",
+      "description": "Show your actual portolio state in T-Invest platform",
+      "repository": "https://github.com/leonzag/noctalia-plugins",
+      "minNoctaliaVersion": "3.6.0",
+      "license": "MIT"
+    }
+  ]
 }
